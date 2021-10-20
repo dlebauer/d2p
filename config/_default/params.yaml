@@ -14,30 +14,30 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: My research group description.
+org_name: 'Drone2Phenome'
+description: The focus of the D2P group is the development of open software, data, and methods to support the use of UAVs in plot-based research. This group is for anyone interested in standards for data collection and exchange, and the development of re-useable and scalable algorithms..
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+# email: test@example.org
+# phone: 888 888 88 88
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
   country: United States
   country_code: US
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
+# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+# office_hours:
+#  - 'Monday 10:00 to 13:00'
+#  - 'Wednesday 09:00 to 10:00'
+# appointment_url: 'https://calendly.com'
+# contact_links:
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
@@ -79,7 +79,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under BSD 3-Clause'
 plugins_js: []
 avatar:
   gravatar: false
